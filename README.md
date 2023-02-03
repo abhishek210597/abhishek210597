@@ -1,4 +1,4 @@
-![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![logo](https://github.com/abhishek210597/abhishek210597/blob/main/home_page.png)
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Robotics Enthusiastic</h3>
 
