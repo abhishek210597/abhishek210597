@@ -1,4 +1,4 @@
-![logo](https://github.com/abhishek210597/abhishek210597/blob/main/home_page.png)
+![logo](https://github.com/abhishek210597/abhishek210597/blob/main/home_page_1.png)
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Robotics Enthusiastic</h3>
 
